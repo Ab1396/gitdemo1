@@ -1,2 +1,6 @@
 hello this is the first git demo1
+<<<<<<< HEAD
+testing working of git fork 
+=======
 checking git clone 
+>>>>>>> upstream/master
